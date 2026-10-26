@@ -1,7 +1,4 @@
-# EPICHEM – Obchody BHP
-# Wystarczy dodac ten JEDEN plik w GitHubie pod sciezka:
-# .github/workflows/build-apk.yml
-# Po zapisaniu GitHub sam spróbuje zbudowac APK.
+
 name: EPICHEM BHP - zbuduj APK
 
 on:
